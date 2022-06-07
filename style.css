@@ -1,0 +1,59 @@
+body {
+    background: #bdbdbd;
+    margin: 0;
+    font-family: 'Handlee', cursive;
+}
+#header {
+    background: white;
+    margin-top: 0;
+    padding: 10px;
+    text-align: center;
+
+}
+
+ul {
+    list-style-type: none;
+    text-align: center;
+    margin-left: 80px;
+    margin-right: 80px;
+    
+    
+}
+
+li{
+    background: white;
+    width: 640px;
+    margin: 60px 0;
+    display: inline-block;
+  
+}
+
+#photos .photo1, .photo2, .photo3 {
+    text-align:left;
+    padding: 10px 0 0 0;
+    
+    
+}
+
+#photos .postHeaderSpan {
+    display: inline-block;
+    float: right;
+    color: grey;
+    margin-bottom: 10px;
+    margin-right: 10px;
+}
+#photos .phototext{
+    float: left;
+    margin-left: 20px;
+    margin-top: 10px;
+    padding-bottom: 10px;
+    
+}
+
+#photos, p{
+    float: left;
+    margin-left: 20px;
+    margin-top: 10px;
+    padding: 0 30px 10px 10px;
+
+}
